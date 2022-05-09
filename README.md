@@ -10,9 +10,9 @@ Assignment 2 builds upon it.
 # Assignment 1: Implementing Wookiee
 
 In the first week's assignment you will be implementing Wookiee -- a very
-simple instantiation of the LPR crypto system; see my slides available at XXX.
-In particular, you want to revisit slide XXX defining the LPR cryptosystem
-and the slides following slide XXX giving hints on this assignment.
+simple instantiation of the LPR crypto system; see my slides available at https://kannnwischer.eu/talks/20220511-latticekems.pdf.
+In particular, you want to revisit slide 14 defining the LPR cryptosystem
+and the slides following slide 61 giving hints on this assignment.
 
 Your goal is to make all tests pass (`./test/test.sh`).
 
