@@ -24,8 +24,9 @@ In your initial implementation of Wookiee you have probably used schoolbook
 multiplication. In this assignment, you will be implementing it using
 Number-theoretic transforms.
 
+The slides are available at https://kannwischer.eu/talks/20220518_latticesigs.pdf.
 Your goal is to replace `poly_mul` in `poly.c` with an NTT-based implementation
 and make the tests pass (`./test/test.sh`).
-Revisit slide XXX from XXX describing the Cooley--Tukey and Gentleman--Sande algorithms for
+Revisit slide 57 describing the Cooley--Tukey and Gentleman--Sande algorithms for
 implementing the NTT.
-Read the hints in slide XXX and following.
+Read the hints in slide 66 and following.
