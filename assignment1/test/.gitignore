@@ -1,0 +1,8 @@
+test_kem
+test_poly_add
+test_poly_fromtobytes
+test_poly_fromtomsg
+test_poly_getnoise
+test_poly_mul
+test_poly_sub
+test_poly_uniform
