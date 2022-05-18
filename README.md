@@ -7,6 +7,9 @@ Spring 2022.
 Assignment 1 is https://cryptojedi.org/wookie.tar.gz by Peter Schwabe.
 Assignment 2 builds upon it.
 
+All the code in this repository is published under a CC0 copyright waiver.
+Students of the course will receive solutions in the online learning platform later. Solutions are also available upon request.
+
 # Assignment 1: Implementing Wookiee
 
 In the first week's assignment you will be implementing Wookiee -- a very
