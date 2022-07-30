@@ -25,7 +25,7 @@ The operation vastly dominating the performance of Wookiee (just as for any
 other scheme based on structured lattices) is polynomial multiplication.
 In your initial implementation of Wookiee you have probably used schoolbook
 multiplication. In this assignment, you will be implementing it using
-Number-theoretic transforms.
+number-theoretic transforms.
 
 The slides are available at https://kannwischer.eu/talks/20220518_latticesigs.pdf.
 Your goal is to replace `poly_mul` in `poly.c` with an NTT-based implementation
